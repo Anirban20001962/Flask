@@ -1,0 +1,7 @@
+flaskblob/.env
+_pycache_
+flaskblob/_pycache_
+errors/_pycache_
+main/_pycache_
+posts/_pycache_
+users/_pycache_
